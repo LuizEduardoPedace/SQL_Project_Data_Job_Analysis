@@ -130,6 +130,7 @@ Here's the breakdown of the most demanded skills for data scientists in 2023:
 | **R**      | 72,526       |
 | **SAS**    | 35,934       |
 | **Tableau**| 35,472       |
+
 *Table of the demand for the top 5 skills in data science job postings*
 
 
