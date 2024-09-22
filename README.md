@@ -130,6 +130,7 @@ Here's the breakdown of the most demanded skills for data scientists in 2023:
 | **R**      | 72,526       |
 | **SAS**    | 35,934       |
 | **Tableau**| 35,472       |
+
 *Table of the demand for the top 5 skills in data science job postings*
 
 
@@ -228,6 +229,7 @@ LIMIT 25
 | Hugging Face   | 28         | $156,812               |
 | Zoom           | 22         | $155,873               |
 | RShiny         | 24         | $154,712               |
+
 *Table of the most optimal skills for data scientist sorted by salary*
 
 Here's a breakdown of the most optimal skills for Data Scientists in 2023:
