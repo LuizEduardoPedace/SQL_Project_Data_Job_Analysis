@@ -229,6 +229,7 @@ LIMIT 25
 | Hugging Face   | 28         | $156,812               |
 | Zoom           | 22         | $155,873               |
 | RShiny         | 24         | $154,712               |
+
 *Table of the most optimal skills for data scientist sorted by salary*
 
 Here's a breakdown of the most optimal skills for Data Scientists in 2023:
